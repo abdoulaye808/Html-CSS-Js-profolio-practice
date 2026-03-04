@@ -178,6 +178,7 @@ section{
 }
 .section__text__p2{
     font-size: 1.75rem;
+    margin-top: 1rem;
     margin-bottom: 1rem;
 }
 .title{
@@ -195,6 +196,9 @@ section{
 .icon{
     cursor: pointer;
     height: 2rem;
+    margin-top: 1rem;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
 }
 
 .btn-container{
