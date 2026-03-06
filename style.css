@@ -381,7 +381,7 @@ article .icon {
 
 /* CONTACT */
 
-#contact {
+#contacts {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -417,4 +417,15 @@ article .icon {
 
 .email-icon {
   height: 2.5rem;
+}
+
+/* FOOTER SECTION */
+
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+}
+
+footer p {
+  text-align: center;
 }
